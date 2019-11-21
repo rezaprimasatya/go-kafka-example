@@ -1,0 +1,9 @@
+{
+	"type": "record",
+	"name": "TestSchema",
+	"fields": [
+		{"name": "Name", "type": "string"},
+		{"name": "Age", "type": "int"}
+	]
+
+}
